@@ -2,10 +2,12 @@ from scapy.all import *
 
 def filter(node_num):
     icmp_filter = 'icmp and (icmp.type == 8 or icmp.type == 0)'
+    cap_dir = "Captures/"
+    fil_dir = "Filtered_Node_Files/"
 
-    pcap_filename = f'Node{node_num}.pcap'
-    txt_filename = f'Node{node_num}.txt'
-    filtered_filename = f'Node{node_num}_filtered.txt'
+    pcap_filename = f'{cap_dir}Node{node_num}.pcap'
+    txt_filename = f'{cap_dir}Node{node_num}.txt'
+    filtered_filename = f'{fil_dir}Node{node_num}_filtered.txt'
 
     packets = rdpcap(pcap_filename)
 
