@@ -1,0 +1,59 @@
+Node 1
+
+Echo Requests Sent,Echo Requests Received,Echo Replies Sent,Echo Replies Received
+128,49,49,128
+Echo Request Bytes Sent (bytes),Echo Request Data Sent (bytes)
+141356,141356
+Echo Request Bytes Received (bytes),Echo Request Data Received (bytes)
+137816,137816
+
+Average RTT (milliseconds),0.05551020409229193
+Echo Request Throughput (kB/sec),51969.117637079515
+Echo Request Goodput (kB/sec),50667.647049094136
+Average Reply Delay (microseconds),2564.851562508963
+Average Echo Request Hop Count,1.4463276836158192
+
+Node 2
+
+Echo Requests Sent,Echo Requests Received,Echo Replies Sent,Echo Replies Received
+82,160,160,82
+Echo Request Bytes Sent (bytes),Echo Request Data Sent (bytes)
+166856,166856
+Echo Request Bytes Received (bytes),Echo Request Data Received (bytes)
+162016,162016
+
+Average RTT (milliseconds),0.05564999998952658
+Echo Request Throughput (kB/sec),18739.44295051691
+Echo Request Goodput (kB/sec),18195.867029480196
+Average Reply Delay (microseconds),2677.170731704159
+Average Echo Request Hop Count,1.5950413223140496
+
+Node 3
+
+Echo Requests Sent,Echo Requests Received,Echo Replies Sent,Echo Replies Received
+72,98,98,72
+Echo Request Bytes Sent (bytes),Echo Request Data Sent (bytes)
+115978,115978
+Echo Request Bytes Received (bytes),Echo Request Data Received (bytes)
+112578,112578
+
+Average RTT (milliseconds),0.054857142845524516
+Echo Request Throughput (kB/sec),21573.288695045252
+Echo Request Goodput (kB/sec),20940.848218720832
+Average Reply Delay (microseconds),2779.3749999776514
+Average Echo Request Hop Count,1.5941176470588236
+
+Node 4
+
+Echo Requests Sent,Echo Requests Received,Echo Replies Sent,Echo Replies Received
+108,86,86,108
+Echo Request Bytes Sent (bytes),Echo Request Data Sent (bytes)
+117620,117620
+Echo Request Bytes Received (bytes),Echo Request Data Received (bytes)
+113740,113740
+
+Average RTT (milliseconds),0.053313953492571
+Echo Request Throughput (kB/sec),25653.21700997524
+Echo Request Goodput (kB/sec),24806.979278307972
+Average Reply Delay (microseconds),3038.453703688312
+Average Echo Request Hop Count,1.6443298969072164
